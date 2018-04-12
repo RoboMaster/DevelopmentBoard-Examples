@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "main.h": "c",
+        "gpio.h": "c",
+        "usb_device.h": "c",
+        "dma.h": "c",
+        "stm32f4xx_hal.h": "c",
+        "stm32f4xx_hal_conf.h": "c",
+        "stm32f4xx_hal_rcc.h": "c",
+        "stm32f4xx_hal_def.h": "c",
+        "stm32f4xx.h": "c"
+    },
+    "C_Cpp.autocomplete": "Disabled",
+    "C_Cpp.intelliSenseEngine": "Tag Parser"
+}
