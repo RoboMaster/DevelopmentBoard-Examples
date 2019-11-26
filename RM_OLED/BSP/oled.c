@@ -344,7 +344,7 @@ void oled_printf(uint8_t row, uint8_t col, const char *fmt,...)
     uint8_t remain_size = 0;
     va_list ap;
 
-    if ((row > 4) || (row < 1) || (col > 20) || (col < 1))
+    if ((row > 4) || (col > 20) || (col < 1))
         return;
 
     va_start(ap, fmt);
