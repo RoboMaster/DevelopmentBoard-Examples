@@ -402,7 +402,7 @@ void mpu_offset_call(void)
 	mpu_data.ay_offset=mpu_data.ay_offset / 300;
 	mpu_data.az_offset=mpu_data.az_offset / 300;
 	mpu_data.gx_offset=mpu_data.gx_offset / 300;
-	mpu_data.gy_offset=mpu_data.gx_offset / 300;
+	mpu_data.gy_offset=mpu_data.gy_offset / 300;
 	mpu_data.gz_offset=mpu_data.gz_offset / 300;
 }
 
